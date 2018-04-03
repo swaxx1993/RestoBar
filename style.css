@@ -1,0 +1,302 @@
+
+.history{
+	font-family:Tahoma, Geneva, sans-serif;
+	size: 10px;
+	color:#333;
+padding: 30px;
+width: 500px;
+height: 400px;	
+position: absolute;
+margin: 0px 0px 0px 0px;
+	
+	}
+
+.map{
+	
+position: absolute;
+margin: 10px 0px 0px 600px;
+	
+	}
+.logo {
+	position: absolute;
+	background-image:url(image/rr.jpg);
+	height:200px;
+	width:223px;
+	border-radius: 2px;
+		box-shadow: inset 0 0px rgba(255,255,255,0.2), 
+            inset 0 -15px 30px rgba(1,1,1,0.4),
+                  0 5px 10px rgba(0,0,0,1.5);
+	
+
+	
+	}
+.submit {
+
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	size:20px;
+	background-image:url(image/submet.jpg);
+	margin: 400px 0px 0px 750px;
+	height:50px;
+	width:130px;
+	padding: 0px;
+	position:absolute;
+	border-radius: 2px;
+		box-shadow: inset 0 80px rgba(255,255,255,0.2), 
+            inset 0 -15px 30px rgba(1,1,1,0.4),
+                  0 5px 10px rgba(0,0,0,1.5);
+	
+	
+}
+.clear{
+
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	size:20px;
+	background-image:url(image/clear.jpg);
+	margin: 400px 0px 0px 900px;
+	height:50px;
+	width:130px;
+	padding: 0px;
+	position:absolute;
+	border-radius: 2px;
+		box-shadow: inset 0 80px rgba(255,255,255,0.2), 
+            inset 0 -15px 30px rgba(1,1,1,0.4),
+                  0 5px 10px rgba(0,0,0,1.5);
+	
+	
+}	
+	
+
+.p{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color:#666;
+	size: 20px;
+	
+	}
+.order {
+	position: absolute;
+	padding: 10px;
+	width: 200px;
+	height: 450px;
+	
+	
+	}	
+.order2 {
+	margin: 15px 0px 0px 170px;
+	position: absolute;
+	padding: 10px;
+	width: 400px;
+	height: 450px;
+	top: 105px;
+	left: 30px;
+	
+	
+	}		
+.order3 {
+	margin: 0px 0px 0px 650px;
+	position: absolute;
+	padding: 10px;
+	width: 300px;
+	height: 450px;
+	
+	
+	}	
+.button {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	size:20px;
+	background-image:url(image/images.jpg);
+	margin: 0px 0px 0px 930px;
+	height:50px;
+	width:100px;
+	padding: 0px;
+	position:absolute;
+	border-radius: 2px;
+		box-shadow: inset 0 80px rgba(255,255,255,0.2), 
+            inset 0 -15px 30px rgba(1,1,1,0.4),
+                  0 5px 10px rgba(0,0,0,1.5);
+	
+	
+}
+.button2 {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	size:20px;
+	background-image:url(image/back.jpg);
+	margin: 0px 0px 0px 930px;
+	height:50px;
+	width:100px;
+	padding: 0px;
+	position:absolute;
+	border-radius: 2px;
+		box-shadow: inset 0 80px rgba(255,255,255,0.2), 
+            inset 0 -15px 30px rgba(1,1,1,0.4),
+                  0 5px 10px rgba(0,0,0,1.5);
+	
+	
+}
+
+#slider {
+    float:left;
+    width:500px;height:400px;/* Make it the same size as your images. */
+	background:#fff url(javascript/loading.gif) no-repeat 50% 50%;
+	position:relative;
+	margin: auto;
+	box-shadow: 0 0 5px #888;
+	margin: 10px 0px 0px 0px;
+	
+	/*make the image slider center-aligned */
+}
+
+#body {
+	margin: 200px 0px 0px 230px;
+	height:600px;
+	width:1100px;
+	padding: 0px;
+	position:absolute;
+	border-radius: 2px;
+		box-shadow: inset 0 80px rgba(255,255,255,0.2), 
+            inset 0 -15px 30px rgba(1,1,1,0.4),
+                  0 5px 10px rgba(0,0,0,1.5);
+	
+	
+}
+
+.box {
+	margin: 0px 0px 0px 0px;
+	height:400px;
+	width:500px;
+	padding: 0px 30px 30px 30px;
+	position:absolute;
+	padding: 20px;
+	
+	
+}
+
+.box1 {
+	margin: 0px 0px 0px 560px;
+	height:400px;
+	width:600px;
+	padding: 0px;
+	position:absolute;
+	padding: 20px;
+	
+	
+}
+			
+
+#header{
+	margin: 0px 0px 0px 230px;
+	height:200px;
+	width: 1100px;
+	padding: 0px;
+	position:absolute;
+	border-radius: 2px;
+		box-shadow: inset 0 0px rgba(255,255,255,0.2), 
+            inset 0 -15px 30px rgba(0,1,0,0.4),
+                  0 5px 10px rgba(0,0,0,0);
+	
+	
+	}
+#nav {
+	margin: 200px 0px 0px 0px;
+	height:600px;
+	width: 230px;
+	padding: 0px;
+	position:absolute;
+	border-radius: 2px;
+		box-shadow: inset 0 0px rgba(255,255,255,0.2), 
+            inset 0 -15px 30px rgba(0,1,0,0.4),
+                  0 5px 10px rgba(0,0,0,0);
+	
+	}	
+.btn1 {
+	margin: 0px 0px 0px 0px;
+	height:80px;
+	width: 230px;
+	padding: 0px;
+	position:absolute;
+	border-radius: 5px;
+	background-color: rgba(0,0,0,0.20); 
+		box-shadow: inset 0 0px rgba(255,255,255,0.2), 
+            inset 0 -15px 30px rgba(0,0,0,0.4),
+                  0 5px 10px rgba(0,0,0,0);
+}	
+
+
+
+.btn2 {
+	margin: 100px 0px 0px 0px;
+	height:80px;
+	width: 230px;
+	padding: 0px;
+	position:absolute;
+	border-radius: 5px;
+	background-color: rgba(0,0,0,0.20); 
+
+		box-shadow: inset 0 0px rgba(255,255,255,0.2), 
+            inset 0 -15px 30px rgba(0,1,0,0.4),
+                  0 5px 10px rgba(0,0,0,0);
+
+	
+	}	
+	
+	.btn3 {
+	margin: 200px 0px 0px 0px;
+	height:80px;
+	width: 230px;
+	padding: 0px;
+	position:absolute;
+	border-radius: 5px;
+	background-color: rgba(0,0,0,0.20); 
+
+		box-shadow: inset 0 0px rgba(255,255,255,0.2), 
+            inset 0 -15px 30px rgba(0,1,0,0.4),
+                  0 5px 10px rgba(0,0,0,0);
+
+	
+	}	
+	.btn4{
+	margin: 300px 0px 0px 0px;
+	height:80px;
+	width: 230px;
+	padding: 0px;
+	position:absolute;
+	border-radius: 5px;
+	background-color: rgba(0,0,0,0.20); 
+
+		box-shadow: inset 0 0px rgba(255,255,255,0.2), 
+            inset 0 -15px 30px rgba(0,1,0,0.4),
+                  0 5px 10px rgba(0,0,0,0);
+
+	
+	}		
+	
+	.btn5 {
+	margin: 400px 0px 0px 0px;
+	height:80px;
+	width: 230px;
+	padding: 0px;
+	position:absolute;
+	border-radius: 5px;
+	background-color: rgba(0,0,0,0.20); 
+
+		box-shadow: inset 0 0px rgba(255,255,255,0.2), 
+            inset 0 -15px 30px rgba(0,1,0,0.4),
+                  0 5px 10px rgba(0,0,0,0);
+
+	
+	}	
+
+
+#footer {
+	position:absolute;
+	height: 100px;
+	width:1330px;
+	margin-top: 800px;
+	margin-left: 0px;
+	text-decoration:none;
+	box-shadow: inset 0 50px rgba(255,255,255,0.2), 
+            inset 0 -15px 30px rgba(0,1,0,0.4),
+                  0 20px 5px rgba(0,0,0,0.5);
+	
+	
+}
+	
